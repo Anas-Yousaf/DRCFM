@@ -1,0 +1,6 @@
+pip install tensorflow==2.9.0
+pip install keras==2.9.0
+pip install mtcnn==0.1.0
+pip install opencv-python
+pip install numpy==1.23.5
+pip install scikit-learn
